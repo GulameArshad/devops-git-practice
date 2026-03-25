@@ -1,4 +1,8 @@
 Learning is life
 Learning git branching
 Learning git branchin
+<<<<<<< HEAD
 Line from branch 1
+=======
+Line from branch 2
+>>>>>>> conflict-branch2
